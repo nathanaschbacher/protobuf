@@ -8,7 +8,7 @@
   "engines": { "node": ">= 0.8.0 < 0.11.0" },
   "repository": {
     "type": "git",
-    "url": "git://github.com/chrisdew/protobuf.git"
+    "url": "git://github.com/nathanaschbacher/protobuf.git"
   },
   "scripts": { 
     "test": "node test/unittest.js"
